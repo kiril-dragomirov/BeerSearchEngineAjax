@@ -1,0 +1,56 @@
+body{
+    background-image: url("170116.jpg");
+    background-size: 100%;
+    scrollbar-shadow-color: red;
+
+}
+#container{
+    background-color: rgba(210, 105, 30, 0.52);
+    width: 1170px;
+    margin: 5% auto;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: cornsilk;
+    padding: 5%;
+
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline dotted;
+    font-family: "Bell MT";
+    color: antiquewhite;
+}
+input{
+    margin-left:42%;
+    background-color: antiquewhite;
+}
+#showInfo{
+    width: 250px;
+    height: auto;
+    margin-left:40%;
+    background-color: rgba(240, 230, 140, 0.47);
+    border-radius: 5px;
+    color: antiquewhite;
+}
+#showInfo li{
+    list-style-type: none;
+    color: antiquewhite;
+}
+#info{
+    width: 250px;
+    height: auto;
+    margin-left:40%;
+    background-color: rgba(240, 230, 140, 0.47);
+    border-radius: 5px;
+    color: antiquewhite;
+}
+#info li{
+    list-style-type: none;
+    color: antiquewhite;
+
+}
+#info li img{
+    width: 50px;
+    height:100px;
+}
